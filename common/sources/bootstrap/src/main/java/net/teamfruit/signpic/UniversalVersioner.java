@@ -28,6 +28,13 @@ public class UniversalVersioner {
 			.put("1.10", "1.10.2")
 			.put("1.11", "1.11.2")
 			.put("1.12", "1.12.2")
+		        .put("1.13", "1.13.2")
+		        .put("1.14", "1.14.4")
+		        .put("1.15", "1.15.2")
+		        .put("1.16", "1.16.5")
+		        .put("1.17", "1.17.1")
+		        .put("1.18", "1.18.2")
+		        .put("1.19", "1.19.2")
 			.build();
 
 	public static String getVersion(final String mccversion) {
